@@ -7,6 +7,6 @@ public class SinhVien {
     public static void main(String[] args) {
         System.out.println("Ten: "+ ten);
         System.out.println("tuoi:"+ age);
-        System.out.println(" khoa:" + khoahoc);
+        System.out.println("khoa:" + khoahoc);
     }
 }
